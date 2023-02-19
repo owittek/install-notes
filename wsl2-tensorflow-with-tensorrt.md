@@ -1,4 +1,4 @@
-# Installation of Tensorflow in WSL2 (Arch) with with Tensorrt
+# Installation of Tensorflow in WSL2 (Arch) with Tensorrt
 
 ## Requirements
 
