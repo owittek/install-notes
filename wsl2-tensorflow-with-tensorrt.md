@@ -13,7 +13,7 @@
 - cudatoolkit: 11.8.0
 - tensorrt: 8.5.3.1
 
-## Installation (Example with Micromamba & zsh)
+## Installation (Example with Micromamba)
 
 1. Create .mambarc / .condarc in $HOME 
 
